@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **finding a new opportunity**
 
-- 👨‍💻 All of my projects are available at [ahmed-samir-abdon](www.linkedin.com/in/ahmed-samir-abdon-b99156280/](https://www.linkedin.com/in/ahmed-samir-abdon-b99156280/)
+- 👨‍💻 All of my projects are available at [ahmed-samir-abdon](https://www.linkedin.com/in/ahmed-samir-abdon-b99156280/)
 
 - 💬 Ask me about **any front-end topic**
 
 - 📫 How to reach me **eng.ahmed.sameer0@gmail.com**
 
-- 📄 Know about my experiences [here](drive.google.com/file/d/1DiBOqL1Y2RLabmdH7AfbDwXJUTM2xbmx/view?usp=sharing](https://drive.google.com/file/d/1DiBOqL1Y2RLabmdH7AfbDwXJUTM2xbmx/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1DiBOqL1Y2RLabmdH7AfbDwXJUTM2xbmx/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.**
 
