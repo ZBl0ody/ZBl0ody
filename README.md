@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Reactjs nodejs**
 
-- 🤝 I’m looking for help with **find a new opportunity**
+- 🤝 I’m looking for help with **finding a new opportunity**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ahmed-samir-abdon-b99156280/](https://www.linkedin.com/in/ahmed-samir-abdon-b99156280/)
 
