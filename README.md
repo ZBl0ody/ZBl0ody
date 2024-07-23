@@ -3,6 +3,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zbl0ody" alt="zbl0ody" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zbl0ody&label=Profile%20views&color=0e75b6&style=flat" alt="zbl0ody" /> </p>
 
 - 🔭 I’m currently working on [Bernasos](https://www.bernasos.com/en/)
 
