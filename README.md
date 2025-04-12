@@ -43,9 +43,9 @@ I'm a passionate frontend developer with expertise in **React.js, Redux Toolkit,
 
 ### 📊 GitHub Stats
 
-![Ahmed Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Amiin&show_icons=true&theme=radical)
+![Ahmed Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZBl0ody&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Amiin&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZBl0ody&layout=compact&theme=radical)
 
 ---
 
