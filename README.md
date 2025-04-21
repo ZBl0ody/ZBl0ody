@@ -35,7 +35,7 @@ I'm a passionate frontend developer with expertise in **React.js, Redux Toolkit,
 
 ### 📌 Featured Projects
 
-- 🔹 **[Word Wise](https://github.com/ZBl0ody/World-Wise)** - your personal travel memory journal.
+- 🔹 **[Word Wise](https://github.com/ZBl0ody/worldwise)** - your personal travel memory journal.
 - 🔹 **[React Quiz](https://github.com/ZBl0ody/React-Quiz)** -  web-based quiz application built using React.
 - 🔹 **[Fast React Pizza](https://github.com/ZBl0ody/Fast-React-Pizza)** - pizza menu showcasing various pizza options with details and ordering functionality.
 
